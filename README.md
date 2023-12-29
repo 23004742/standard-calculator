@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -99,9 +99,13 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+```
 ## OUTPUT:
+
 ![Screenshot 2023-12-29 133817](https://github.com/23004742/standard-calculator/assets/150319318/d15d65ea-380d-4aa8-9502-c33ab0ee4313)
+
 ## Result:
+
 Thus a web application for standard calculator is designed.
 
 
